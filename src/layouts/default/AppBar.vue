@@ -15,9 +15,6 @@
     <v-btn class="ml-2" rounded="xl" prepend-icon="mdi-chart-areaspline">
       Статистика
     </v-btn>
-    <v-btn class="ml-2" rounded="xl" prepend-icon="mdi-store">
-      Наш мерч
-    </v-btn>
 
     <v-spacer />
 
